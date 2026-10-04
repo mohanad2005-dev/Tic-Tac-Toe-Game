@@ -22,8 +22,8 @@ A Desktop Tic-Tac-Toe (X-O) game built with C# and Windows Forms. The project fe
     <td align="center"><b>Winner / Draw Highlight</b></td>
   </tr>
   <tr>
-    <td><img src="<img width="916" height="570" alt="لقطة شاشة 2026-10-04 152059" src="https://github.com/user-attachments/assets/76c1253c-f2e3-46fd-944c-df5fb545d8f2" />" alt="Game Play" width="400"></td>
-    <td><img src="<img width="913" height="571" alt="لقطة شاشة 2026-10-04 152121" src="https://github.com/user-attachments/assets/7653f764-d210-4740-8f8f-34604171e336" />" alt="Game Over" width="400"></td>
+    <td><img src="https://github.com/user-attachments/assets/76c1253c-f2e3-46fd-944c-df5fb545d8f2" alt="Game Play" width="400"></td>
+    <td><img src="https://github.com/user-attachments/assets/7653f764-d210-4740-8f8f-34604171e336" alt="Game Over" width="400"></td>
   </tr>
 </table>
 
