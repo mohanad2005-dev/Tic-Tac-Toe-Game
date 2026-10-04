@@ -1,0 +1,19 @@
+# Visual Studio Cache & Settings
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build Outputs
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+
+# NuGet Packages
+*.nupkg
+packages/
+
+# Logs
+*.log
